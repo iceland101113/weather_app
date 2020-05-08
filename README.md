@@ -1,3 +1,7 @@
+## 安裝 Electron & React
+
+參考資料：[連結 1](https://flaviocopes.com/react-electron/#move-to-your-development-folder)、[連結 2](https://gist.github.com/matthewjberger/6f42452cb1a2253667942d333ff53404)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
