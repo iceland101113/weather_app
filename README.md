@@ -1,6 +1,18 @@
-## 安裝 Electron & React
+## Electron & React 起手式
 
-參考資料：[連結 1](https://flaviocopes.com/react-electron/#move-to-your-development-folder)、[連結 2](https://gist.github.com/matthewjberger/6f42452cb1a2253667942d333ff53404)
+1. 安裝環境：[連結 1](https://flaviocopes.com/react-electron/#move-to-your-development-folder)、[連結 2](https://gist.github.com/matthewjberger/6f42452cb1a2253667942d333ff53404)
+
+2. 安裝Bootstrap： ` yarn add bootstrap`
+
+3. ICON Component：[連結](https://blog.lftechnology.com/using-svg-icons-components-in-react-44fbe8e5f91)
+
+4. Font-awesome 在 `index.html` 掛 `CDN`
+
+   ````html
+   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+   ````
+
+   
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
