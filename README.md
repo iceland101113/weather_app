@@ -1,7 +1,6 @@
 # weather-app
 
-> An electron-vue project. 
-> Input a city name, and you could get current weather there.
+> An electron-vue project. This project build a weather app which could install on computer. User could enter a city name to check current weather in it through this app.
 
 #### Getting Started
 * Set Up and Build App
