@@ -2,7 +2,7 @@
 
 > An electron-vue project. This project build a weather app which could install on computer. User could enter a city name to check current weather in it through this app.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/ewB9HrLSS9w/0.jpg)](https://youtu.be/ewB9HrLSS9w "coffee shop map")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/wyzv8zaNVF4/0.jpg)](https://youtu.be/wyzv8zaNVF4 "Weather Map App")
 
 #### Getting Started
 * Set Up and Build App
